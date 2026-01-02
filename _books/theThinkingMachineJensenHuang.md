@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: The Thinking Machine\:\ Jensen Huang, Nvidia, and the World's Most Coveted Microchip
+title: "The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip"
 author: Stephen Witt 
 cover: assets/img/book_covers/The Thinking Machine Jensen Huang.jpg
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
