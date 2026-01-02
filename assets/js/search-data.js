@@ -415,7 +415,7 @@ ninja.data = [{
           
         },
       },{id: "books-the-thinking-machine-jensen-huang-nvidia-and-the-world-39-s-most-coveted-microchip",
-          title: 'The Thinking Machine\:\ Jensen Huang, Nvidia, and the World&amp;#39;s Most Coveted Microchip',
+          title: 'The Thinking Machine: Jensen Huang, Nvidia, and the World&amp;#39;s Most Coveted Microchip',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/theThinkingMachineJensenHuang/";
