@@ -26,5 +26,5 @@ latest_posts:
 ---
 
 
-Hey i am an Machine Learning Engineer. I like to solve really difficult problems.
+Hey i am a Machine Learning Engineer. I like to solve really difficult problems.
 
